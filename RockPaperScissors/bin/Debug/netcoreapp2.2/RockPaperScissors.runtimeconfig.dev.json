@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hemat.MEDGRUPPEN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hemat.MEDGRUPPEN\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
